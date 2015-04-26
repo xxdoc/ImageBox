@@ -1,0 +1,10 @@
+frmMDI = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmDrawFunction = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmLinearFunction = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmOptions = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmImageWindow = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+ToolButton = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+ToolBarContainer = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+modStartup = 0, 0, 0, 0, C
+modImageWindow = 0, 0, 0, 0, C
+modCalculator = 0, 0, 0, 0, C
